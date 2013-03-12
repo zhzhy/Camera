@@ -87,7 +87,7 @@
 - (void)setCurrentOutputOrientation:(AVCaptureVideoOrientation)currentOutputOrientation
 {
     _currentOutputOrientation = currentOutputOrientation;
-    //
+    
     [self rotateVideoPreviewLayer];
 }
 

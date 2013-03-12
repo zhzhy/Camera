@@ -1,6 +1,6 @@
 //
 //  DeviceManager.m
-//  RosyWriter
+//  Camera
 //
 //  Created by zcy on 12-12-24.
 //

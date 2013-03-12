@@ -1,6 +1,6 @@
 //
 //  ImageResize.h
-//  Video Collage
+//  Camera
 //
 //  Created by zcy on 12-12-13.
 //  Copyright (c) 2012年 zcy. All rights reserved.
